@@ -11,7 +11,7 @@
   // Get Host name
   $ServerInfo = php_uname('n');
 
-  // Set server name to production
+  // Set server name to development
   $ServerName = "https://development_server";
 
   // Define array of dev words
