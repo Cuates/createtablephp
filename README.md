@@ -13,4 +13,4 @@
 * This script was written with PHP 7.0+
 
 ### Prerequisite Image
-* You will need to download an ajax-loader-small.gif before utilizing the script
+* You will need to download an ajax-loader.gif before utilizing the script
